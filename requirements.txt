@@ -1,2 +1,7 @@
 streamlit==1.39.0
 Pillow>=10.1.0
+torch
+torchvision
+opencv-python-headless
+numpy
+git+https://github.com/CarDS-Yale/PanEcho.git
